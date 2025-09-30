@@ -1,5 +1,5 @@
 # 💫 About Me  
-I am currently pursuing **Meta Backend Development** at **Cyber Pulse Institute of Technology** through a Blended Information Technology program affiliated with **NAVTTC**, a government initiative empowering the youth of Pakistan.  
+I am currently pursuing **Meta Backend Development** at **Cyber Pulse Institute of Technology** through a Blended International IT program affiliated with **NAVTTC**, a government initiative empowering the youth of Pakistan.  
 
 I have a solid foundation in **HTML5, CSS3, JavaScript, and Bootstrap**, and I’m currently expanding my skills with **React.js**. Alongside web technologies, I have **basic to intermediate knowledge** of **Python, C++, C#, Dart, Flutter, and SQL**.  
 
