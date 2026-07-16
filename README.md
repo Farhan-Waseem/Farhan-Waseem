@@ -1,15 +1,27 @@
 # 💫 About Me
-
-Junior Software Engineer with **6 months of full-stack web development experience**, specializing in **Node.js, Express.js, React, Firebase, and PostgreSQL**. Skilled in building **RESTful APIs**, implementing secure authentication (**JWT, MFA, OTP**), and optimizing backend performance. Experienced in creating responsive, user-friendly interfaces using **React**. Strong in problem-solving, debugging, and teamwork, with a focus on delivering scalable, high-quality solutions.
+AI-focused IT graduate with hands-on experience in **Python, Machine Learning, and Deep Learning**, backed by a **Microsoft Certified: Azure AI Fundamentals (AZ-900)** certification. Completed a **PSEB-recognized AI training program at Corvit Systems**, gaining practical skills in **Machine Learning, Deep Learning, NumPy, Pandas, Scikit-learn, and TensorFlow**. Additionally, trained as a **Meta Back-End Developer** under the **NAVTTC Blended International IT Training Program**, with applied experience in **Django, Node.js, Express.js, and RESTful backend development**. Adept at translating data into actionable insights through exploratory data analysis using **Matplotlib and Seaborn**. Eager to apply technical skills and a continuous learning mindset to contribute meaningfully as an **AI Engineer**.
 
 
 ## Professional Experience
 
-### Meta Back-End Developer – Trainee  
+### Artificial Intelligence Intern
+**Tech Bridge Consultancy** · Lahore  
+**July 2026 – Present**
+
+### Artificial Intelligence – Trainee
+**Corvit Systems** · Lahore  
+**Feb 2026 – May 2026**
+- Developed strong foundations in **Python programming and Object-Oriented Programming (OOP)** principles, applying concepts to build modular and reusable code structures.
+- Performed **data wrangling, cleaning, and exploratory data analysis (EDA)** using **NumPy and Pandas** on real-world datasets to extract meaningful insights.
+- Created **data visualizations** using **Matplotlib and Seaborn** to communicate trends, distributions, and patterns effectively.
+- Built and evaluated **supervised and unsupervised machine learning models** using **TensorFlow, PyTorch, Keras, and Scikit-learn**, including regression, classification, and clustering algorithms.
+- Developed hands-on experience in **deep learning**, exploring applications across **computer vision, sequence modeling, and natural language processing (NLP)**.
+- Applied **end-to-end ML workflows** covering data preprocessing, feature engineering, model training, evaluation, and performance optimization.
+
+### Meta Back-End Developer – Trainee
 **Cyber Pulse Institute of Technology** · Lahore  
 **Sep 2025 – Nov 2025**
-
-- Selected for **NAVTTC’s Blended International IT Training 2025** and enrolled in the **Meta Back-End Developer Professional Certificate**.
+- Selected for **NAVTTC's Blended International IT Training 2025** and enrolled in the **Meta Back-End Developer Professional Certificate**.
 - Learning backend development using **Python (Django), Node.js & Express.js** with **Firebase & SQL databases** for building secure and scalable applications.
 - Working on **frontend technologies** including **React, JavaScript (ES6+), HTML5, CSS3, and Bootstrap** to create dynamic and responsive web interfaces.
 - Gaining hands-on experience through **real-world projects**, focusing on full-stack development, API integration, and deployment.
@@ -17,9 +29,9 @@ Junior Software Engineer with **6 months of full-stack web development experienc
 
 ## Education
 
-### BS (Hons) – Information Technology  
+### BS Information Technology  
 **University of Okara**  
-**2021 – 2025** | **CGPA: 3.46**
+**Oct 2021 – Sep 2025** | **CGPA: 3.46/4.00**
 
 
 
