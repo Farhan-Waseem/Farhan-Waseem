@@ -18,7 +18,7 @@ AI-focused IT graduate with hands-on experience in **Python, Machine Learning, a
 - Developed hands-on experience in **deep learning**, exploring applications across **computer vision, sequence modeling, and natural language processing (NLP)**.
 - Applied **end-to-end ML workflows** covering data preprocessing, feature engineering, model training, evaluation, and performance optimization.
 
-### Meta Back-End Developer – Trainee
+### Back-End Developer – Trainee
 **Cyber Pulse Institute of Technology** · Lahore  
 **Sep 2025 – Nov 2025**
 - Selected for **NAVTTC's Blended International IT Training 2025** and enrolled in the **Meta Back-End Developer Professional Certificate**.
